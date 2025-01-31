@@ -11,17 +11,17 @@ redirect_from:
 Instructor
 ======
 
-Undergraduate Courses:
+本科生课程：
 
-* Studies on Frontier Issues in International Relations(国际关系前沿问题研究)
+* 国际关系前沿问题研究，春季学期
   
 
 
 Teaching Assistant
-======
+=====
 
-Undergraduate Courses:
+本科生课程：
 
-* International Relations Analysis(国际关系分析), Prof. Xuetong Yan, Tsinghua University
-* China's Foreign Policy(中国对外政策), Prof. Xuefeng Sun, Tsinghua University
-* Introduction to International Security(中国对外政策), Dr. Chong Chen, Tsinghua University
+* 国际关系分析, （主讲教师：阎学通），主任助教，清华大学，2021、2022、2023年秋季学期
+* 中国对外政策（主讲教师：孙学峰），助教，清华大学，2023年春季学期
+* 国际安全概论（主讲教师：陈冲），助教，清华大学，2022年春季学期
