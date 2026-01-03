@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "黄贝｜Bei Huang"
+title                    : "黄贝｜Bei HUANG"
 title_separator          : "-"
-name                     : &name "Bei Huang"
+name                     : &name "Bei HUANG"
 description              : &description "  "
 url                      : https://huangb5094.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile1.jpg"
-  name             : "黄贝｜Bei Huang"
+  name             : "黄贝｜Bei HUANG"
   pronouns         : # example: "she/her"  
   bio              : "讲师，国际关系学系"
   location         : "湖北省，武汉市"
