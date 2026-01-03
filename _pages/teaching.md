@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-Instructor
+主讲课程
 ======
 
 本科生课程：
@@ -18,7 +18,7 @@ Instructor
 * 国际法，武汉大学，秋季学期
 
 
-Teaching Assistant
+助教经历
 =====
 
 本科生课程：
