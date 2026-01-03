@@ -10,8 +10,8 @@ redirect_from:
 
 中文论文
 ======
-* 贺平、**黄贝**：《日本国际关系学界定量研究的传承与嬗变》，《日本学刊》，2025年第5期，第128-156页（[PDF](https://huangb5094.github.io/files/paper12.pdf)）
-* **黄贝**、司晓宇：《中日关系的缓和机遇及其不确定性》，《国际政治科学》，2025年第3期，第180-189页（[PDF](https://huangb5094.github.io/files/paper11.pdf)）
+* 贺平、**黄贝**：《日本国际关系学界定量研究的传承与嬗变》，《日本学刊》，2025年第5期，第128-156页（[PDF](https://huangb5094.github.io/files/paper11.pdf)）
+* **黄贝**、司晓宇：《中日关系的缓和机遇及其不确定性》，《国际政治科学》，2025年第3期，第180-189页（[PDF](https://huangb5094.github.io/files/paper12.pdf)）
 * **黄贝**、华佳凡：《大国的新兴国际规范倡导与网络性权力运用——以美国的数字技术规范倡导为例》，《东北亚论坛》，2025年第5期，第75-90页（[PDF](https://huangb5094.github.io/files/paper10.pdf)）
 * **黄贝**：《国家间网络安全约束性协议何以形成》，《世界经济与政治》，2024年第11期，第86-114页（[PDF](https://huangb5094.github.io/files/paper9.pdf)）
 * **黄贝**、陈冲：《数字技术普及与国内暴力冲突》，《国际政治科学》，2024年第3期，第36-71页（《新华文摘》2025年第1期论点摘编）（[PDF](https://huangb5094.github.io/files/paper8.pdf)）
